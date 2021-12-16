@@ -1,4 +1,4 @@
-The files is this directory list relevant Y-SNPs downloaded from ISOGG on Apr16-2020, from filtered ISOGG raw data belonging to haplogroup A (https://ybrowse.org/gbrowse2/gff/) or from D'Atanasio et al. 2018 (doi:10.1186/s13059-018-1393-5). Files need to be indexed using "angsd sites index" before running.
+The files in this directory list relevant Y-SNPs downloaded from ISOGG on Apr16-2020, from filtered ISOGG raw data belonging to haplogroup A (https://ybrowse.org/gbrowse2/gff/) or from D'Atanasio et al. 2018 (doi:10.1186/s13059-018-1393-5). Files need to be indexed using "angsd sites index" before running.
 
 ## **SNPindex_all-10Mb.angsd**
 
