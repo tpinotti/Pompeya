@@ -1,0 +1,2 @@
+sample	best_node	position_in_branch	edgeLen	estimated_loc_at_branch
+f_1R_Y.bam	4022	0.816666666666667	0.003648325132	0.00297946552446667
